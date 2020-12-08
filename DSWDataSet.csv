@@ -1,0 +1,205 @@
+﻿Day,Room,StartTIme,EndTime,Course,Occupied
+Monday,C-301,8.3,9.5,Cal-I (DS-N),1
+Monday,C-302,8.3,9.5,AP (CySec-T),1
+Monday,C-303,8.3,9.5,NONE,0
+Monday,C-304,8.3,9.5,Pak Studies (AI-K),1
+Monday,C-305,8.3,9.5,NONE,0
+Monday,C-307,8.3,9.5,NONE,0
+Monday,C-308,8.3,9.5,Data Stream WH,1
+Monday,C-309,8.3,9.5,Pak Studies (SE-Q),1
+Monday,C-310,8.3,9.5,AP(SE-R),1
+Monday,C-311,8.3,9.5,NONE,0
+Monday,C-401,8.3,9.5,Discrete (CS-C),1
+Monday,C-402,8.3,9.5,LA (CS-G),1
+Monday,C-403,8.3,9.5,Data St(CS-A),1
+Monday,C-404,8.3,9.5,NONE,0
+Monday,C-405,8.3,9.5,NONE,0
+Monday,C-408,8.3,9.5,TBW (A),1
+Monday,C-409,8.3,9.5,Pak Studies (SE-V),1
+Monday,B-227,8.3,9.5,NONE,0
+Tuesday,B-229,8.3,10.15,Eng Comp (CS-F) 08:30-10:15,1
+Tuesday,B-230,8.3,10.15,Eng Comp (CS-D) 08:30-10:15,1
+Monday,A-301,8.3,9.5,Discrete (CySec-M),1
+Monday,A-302,9,10.2,Automata(B),1
+Monday,A-303,9,10.2,Eng Comp (D),1
+Monday,A-305,8.3,9.5,AI (A),1
+Monday,A-310,8.3,9.5,HCI (C),1
+Monday,A-311,8.3,9.5,AI (E),1
+Monday,A-314,8.3,9.5,Advanced SE (SE),1
+Monday,A-315,8.3,9.5,COAL (CS-E),1
+Monday,Online,8.3,9.5,Natural Language Processing(DS-A),1
+Monday,Online,8.3,9.5,NONE,0
+Monday,Margala I,8.3,11.15,PF Lab (CS-A),1
+Monday,Margala III,8.3,11.15,NONE,0
+Monday,Margala IV,8.3,11.15,Eng Comp Lab(CS-E),1
+Monday,Rawal I,8.3,11.15,Data St Lab(CS-F),1
+Monday,Rawal III,8.3,11.15,IICT(CS-C),1
+Monday,Rawal IV,8.3,11.15,Data St Lab(CS-J),1
+Monday,Karakoram,8.3,11.15,Comp Networks Lab©,1
+Monday,CALL-I,8.3,11.15,Eng Comp Lab(CS-B),1
+Monday,CALL-II,8.3,11.15,NONE,0
+Monday,DLD (C-Blk),8.3,11.15,DLD Lab (AI-K1),1
+Monday,DLD (B-Blk),8.3,11.15,DLD Lab (AI-K2),1
+Tuesday,C-301,8.3,9.5,Data St(AI-J),1
+Tuesday,C-302,8.3,9.5,Artificial Intelligence (AI-K),1
+Tuesday,C-303,8.3,9.5,NONE,0
+Tuesday,C-304,8.3,9.5,LA (CS-D),1
+Tuesday,C-305,8.3,9.5,Adv. AI(AI),1
+Tuesday,C-307,8.3,9.5,AI(B),1
+Tuesday,C-308,8.3,9.5,NONE,0
+Tuesday,C-309,8.3,9.5,HCI(D),1
+Tuesday,C-310,8.3,9.5,LA (CySec-T),1
+Tuesday,C-311,8.3,9.5,NONE,0
+Tuesday,C-401,8.3,9.5,Data St(CS-B),1
+Tuesday,C-402,8.3,9.5,COAL(CS-F),1
+Tuesday,C-403,8.3,9.5,NONE,0
+Tuesday,C-404,8.3,9.5,Comp Networks ( C),1
+Tuesday,C-405,8.3,9.5,NONE,0
+Tuesday,C-408,8.3,9.5,Pyschology(DS-N),1
+Tuesday,C-409,8.3,9.5,NONE,0
+Tuesday,B-227,8.3,9.5,NONE,0
+Tuesday,B-229,8.3,9.5,NONE,0
+Tuesday,B-230,8.3,9.5,NONE,0
+Tuesday,A-301,8.3,9.5,S/w Design Analysis ( E),1
+Tuesday,A-302,8.3,9.5,NONE,0
+Tuesday,A-303,8.3,9.5,NONE,0
+Tuesday,A-305,8.3,9.5,NONE,0
+Tuesday,A-310,8.3,9.5,NONE,0
+Tuesday,A-311,8.3,9.5,NONE,0
+Tuesday,A-314,8.3,9.5,NONE,0
+Tuesday,A-315,8.3,9.5,NONE,0
+Tuesday,Online,8.3,9.5,Stat & Math (DS-B),1
+Tuesday,Online,8.3,9.5,Applied Prog (DS-A),1
+Tuesday,Margala I,8.3,11.15,COAL Lab (CS-A),1
+Tuesday,Margala III,8.3,11.15,IICT (MC-M1),1
+Tuesday,Margala IV,8.3,11.15,Data St Lab (CS-C),1
+Tuesday,Rawal I,8.3,11.15,IICT (AI-K),1
+Tuesday,Rawal III,8.3,11.15,NONE,0
+Tuesday,Rawal IV,8.3,11.15,PF Lab (MC-M2),1
+Tuesday,Karakoram,8.3,11.15,Comp Networks Lab (B) ,1
+Tuesday,CALL-I,8.3,11.15,NONE,0
+Tuesday,CALL-II,8.3,11.15,NONE,0
+Tuesday,DLD (C-Blk),8.3,11.15,NONE,0
+Wednesday,C-301,8.3,9.5,Cal-I (DS-N),1
+Wednesday,C-302,8.3,9.5,AP (CySec-T),1
+Wednesday,C-303,8.3,9.5,NONE,0
+Wednesday,C-304,8.3,9.5,PF(AI-K),1
+Wednesday,C-305,8.3,9.5,Discrete (CS-C),1
+Wednesday,C-307,8.3,9.5,COAL (CS-E),1
+Wednesday,C-308,8.3,9.5,NONE,0
+Wednesday,C-309,8.3,9.5,Pak Studies (SE-Q),1
+Wednesday,C-310,8.3,9.5,AP (SE-R),1
+Wednesday,C-311,8.3,9.5,Islamic Studies (CS-Y),1
+Wednesday,C-401,8.3,9.5,NONE,0
+Wednesday,C-402,8.3,9.5,Pak Studies (SE-V),1
+Wednesday,C-403,8.3,9.5,Data St (CS-A),1
+Wednesday,C-404,8.3,10:15,Eng Comp (CS-C) ,1
+Wednesday,C-405,8.3,9.5,NONE,0
+Wednesday,C-408,8.3,9.5,NONE,0
+Wednesday,C-409,8.3,9.5,Cal-I (CS-H),1
+Wednesday,B-227,8.3,9.5,NONE,0
+Wednesday,B-229,8.3,9.5,Advanced SE (SE),1
+Wednesday,B-230,8.3,9.5,NONE,0
+Wednesday,A-301,8.3,9.5,Pak Studies (MC-M2),1
+Wednesday,A-302,9,10.2,Comp Net (D),1
+Wednesday,A-303,8.3,9.5,AI (A),1
+Wednesday,A-305,8.3,9.5,HCI ( C),1
+Wednesday,A-310,8.3,9.5,AI ( E),1
+Wednesday,A-311,9,10.2,Automata (B),1
+Wednesday,A-314,8.3,9.5,LA (CS-G),1
+Wednesday,A-315,8.3,9.5,TBW ( E),1
+Wednesday,Online,8.3,9.5,NONE,0
+Wednesday,Online,8.3,9.5,Natural Lang. Proc (DS-A),1
+Wednesday,Margala I,8.3,11.15,COAL Lab (CS-B),1
+Wednesday,Margala III,8.3,11.15,PF Lab (CS-B),1
+Wednesday,Margala IV,8.3,11.15,IICT (CS-F),1
+Wednesday,Rawal I,8.3,11.15,Net. and CY - 1  Lab (CySec-M) - A,1
+Wednesday,Rawal III,8.3,11.15,IICT (CS-D),1
+Wednesday,Rawal IV,8.3,11.15,Data St Lab (CS-D),1
+Wednesday,Karakoram,8.3,11.15,Fundamentals of Data Science - Lab (DS-N),1
+Wednesday,CALL-I,8.3,11.15,Eng Comp Lab (CS-A),1
+Wednesday,CALL-II,8.3,11.15,Eng Comp Lab (CS-G),1
+Wednesday,DLD (C-Blk),8.3,11.15,DLD Lab (AI-J1),1
+Wednesday,DLD (B-Blk),8.3,11.15,DLD Lab (AI-J2),1
+Thursday,C-301,8.3,9.5,Islamic Studies (CS-A),1
+Thursday,C-302,8.3,9.5,NONE,0
+Thursday,C-303,8.3,9.5,NONE,0
+Thursday,C-304,8.3,9.5,AP (CS-D),1
+Thursday,C-305,8.3,9.5,Cal-I (CS-E),1
+Thursday,C-307,8.3,9.5,AP (CS-F),1
+Thursday,C-308,8.3,9.5,Cal-I (CS-G),1
+Thursday,C-309,8.3,9.5,NONE,0
+Thursday,C-310,8.3,10:15,Eng Comp (SE-Q),1
+Thursday,C-311,8.3,9.5,NONE,0
+Thursday,C-401,8.3,9.5,Psychology (AI-J),1
+Thursday,C-402,8.3,9.5,LA (AI-K),1
+Thursday,C-403,8.3,9.5,Data St (CS-B),1
+Thursday,C-404,8.3,9.5,Data St (DN-N),1
+Thursday,C-405,8.3,9.5,NONE,0
+Thursday,C-408,8.3,9.5,COAL (CS-F),1
+Thursday,C-409,8.3,9.5,S/w Design & Analysis ( E),1
+Thursday,B-227,8.3,9.5,NONE,0
+Thursday,B-229,8.3,9.5,LA (CS-D),1
+Thursday,B-230,8.3,9.5,NONE,0
+Thursday,A-301,8.3,9.5,Data St (CS-A) ReSch,1
+Thursday,A-302,9,10.2,NONE,0
+Thursday,A-303,8.3,9.5,Comp Networks (C),1
+Thursday,A-305,8.3,9.5,Discrete (CySec-M),1
+Thursday,A-310,8.3,9.5,AI (B),1
+Thursday,A-311,9,10.2,HCI (D),1
+Thursday,A-314,8.3,9.5,Islamic Studies (CS-C),1
+Thursday,A-315,8.3,10:15,Eng Comp (AI-K),1
+Thursday,Online,8.3,9.5,NONE,0
+Thursday,Online,8.3,9.5,NONE,0
+Thursday,Margala I,8.3,11.15,IICT (AI-J),1
+Thursday,Margala III,8.3,11.15,PF Lab (CS-Z) ,1
+Thursday,Margala IV,8.3,11.15,Data St Lab (CS-G),1
+Thursday,Rawal I,8.3,11.15,IICT (SE-P),1
+Thursday,Rawal III,8.3,9.5,Data Stream WH,1
+Thursday,Rawal IV,8.3,11.15,PF Lab (CySec-T),1
+Thursday,Karakoram,8.3,11.15,COAL Lab (CS-E),1
+Thursday,CALL-I,8.3,11.15,Eng Comp Lab (DS-N),1
+Thursday,CALL-II,8.3,11.15,Eng Comp Lab (SE-V1) ,1
+Thursday,DLD (C-Blk),8.3,11.15,NONE,0
+Thursday,DLD (B-Blk),8.3,11.15,NONE,0
+Friday,C-301,8.3,9.5,DWH (B),1
+Friday,C-302,8.3,9.5,Enterprise Info. Systems,1
+Friday,C-303,8.3,9.5,NONE,0
+Friday,C-304,8.3,9.5,Adv. AI (AI),1
+Friday,C-305,8.3,9.5,NONE,0
+Friday,C-307,8.3,9.5,NONE,0
+Friday,C-308,8.3,9.5,DB (Z2),1
+Friday,C-309,8.3,9.5,OS (Y3),1
+Friday,C-310,8.3,9.5,NONE,0
+Friday,C-311,8.3,9.5,NONE,0
+Friday,C-401,8.3,9.5,Applied Programming (CNS),1
+Friday,C-402,8.3,9.5,Applied Prog. (CS),1
+Friday,C-403,8.3,9.5,NONE,0
+Friday,C-404,8.3,10.15,Comm. & Pres. A1 ,1
+Friday,C-405,8.3,9.5,NONE,0
+Friday,C-408,8.3,11.2,IICT (CS-C) ReSch,1
+Friday,C-409,8.3,9.5,NONE,0
+Friday,B-227,8.3,9.5,NONE,0
+Friday,B-229,8.3,9.5,NONE,0
+Friday,B-230,8.3,9.5,NONE,0
+Friday,A-301,8.3,9.5,NONE,0
+Friday,A-302,9,10.2,NONE,0
+Friday,A-303,8.3,9.5,NONE,0
+Friday,A-305,8.3,9.5,NONE,0
+Friday,A-310,8.3,9.5,NONE,0
+Friday,A-311,9,10.2,NONE,0
+Friday,A-314,8.3,9.5,NONE,0
+Friday,A-315,8.3,10:15,NONE,0
+Friday,Online,8.3,9.5,NONE,0
+Friday,Online,8.3,9.5,NONE,0
+Friday,Margala I,8.3,11.15,PF Lab (SE-S),1
+Friday,Margala III,8.3,11.15,PF Lab (CS-G),1
+Friday,Margala IV,8.3,11.15,DWH (B & A),1
+Friday,Rawal I,8.3,11.15,IICT (SE-R) - 09:30 - 12:15,1
+Friday,Rawal III,8.3,9.5,OOP Lab (D),1
+Friday,Rawal IV,8.3,11.15,DB Lab (Z1),1
+Friday,Karakoram,8.3,11.15,OS Lab (Y2),1
+Friday,CALL-I,8.3,11.15,Comm. & Pres. Lab A2,1
+Friday,CALL-II,8.3,11.15,Comm. & Pres. Lab A1,1
+Friday,DLD (C-Blk),8.3,11.15,DLD Lab (A2),1
+Friday,DLD (B-Blk),8.3,11.15,NONE,0
